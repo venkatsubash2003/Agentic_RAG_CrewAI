@@ -1,6 +1,9 @@
 # Agentic RAG using CrewAI
 
 Agentic RAG (Retrieval-Augmented Generation) is an advanced document processing application built using CrewAI, LangChain, and OpenAI models. It leverages AI agents to retrieve, analyze, and summarize information from PDF documents based on user queries. The application utilizes two specialized agents—one for extracting information from PDFs and another for generating polished summaries.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venkatsubash2003/crewAI/main/docs/crewai_logo.png" width="200" alt="Ollama model Logo">
+</p>
 
 ## Features
 
