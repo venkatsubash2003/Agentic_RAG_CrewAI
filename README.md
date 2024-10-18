@@ -5,6 +5,16 @@ Agentic RAG (Retrieval-Augmented Generation) is an advanced document processing 
   <img src="https://raw.githubusercontent.com/venkatsubash2003/crewAI/main/docs/crewai_logo.png" width="200" alt="Ollama model Logo">
 </p>
 
+## 🚀 Streamlit Web Application
+
+Experience the power of our sentiment analysis model through our interactive web application:
+
+<p align="center">
+  <a href="https://amazon-alexa-sentiment-analysis-dfh55obrkh83nwut9kyfhn.streamlit.app/">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="250" alt="Streamlit Logo">
+  </a>
+</p>
+
 ## Features
 
 - **PDF Analysis**: Upload a PDF document and extract key information based on user queries.
