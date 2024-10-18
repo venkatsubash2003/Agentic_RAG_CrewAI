@@ -75,10 +75,5 @@ Agentic RAG (Retrieval-Augmented Generation) is an advanced document processing 
 2. Enter a query like “Summarize the key results of this paper.”
 3. The application analyzes the paper and provides a detailed summary along with bullet points.
 
-## Future Enhancements
-
-- Adding support for multiple document formats.
-- Integrating with FAISS for advanced retrieval across large document sets.
-- Enhancing the user interface with additional customization options.
 
 
