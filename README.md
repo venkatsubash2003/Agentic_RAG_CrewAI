@@ -31,6 +31,26 @@ Experience the power of our sentiment analysis model through our interactive web
 - **Streamlit**: To create the user interface.
 - **FAISS**: (optional) For document retrieval in advanced use cases.
 
+## 📂 Project Structure
+
+```
+📂Agentic_RAG_CrewAI/
+├── 📁 RAG_Crewai/
+│   │ └── 📁 db/
+│   │      └── chroma.sqlite3  ## Chroma DB file
+│   └── main.py ## The main streamlit file
+│   └── agents.py ## Agents file
+│   └── tasks.py ## Tasks file
+│   └── gpt-4-analysis.pdf ## Sample pdf
+├── Math_agent.py   ## Sample math agent for understanding
+├── Info_agent.py  ## Sample math agent for understanding
+├── Agent_with_LLM.py  ## Creating an agent backed by LLM
+├── Calculator_Tool.py ## Created a manual tool
+├── Math.md   ## Output file for Math_agent.py
+├── README.md          # Project documentation
+└── requirements.txt         # Required Python libraries
+```
+
 ## Installation
 
 1. **Clone the Repository**:
